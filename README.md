@@ -46,7 +46,7 @@ In modern computational science and machine learning research, experimentation o
 The project is structured around a decoupled **Switchboard-to-Brain** architecture:
 
 <p align="center">
-  <img src="assets/system_architecture.png" alt="Systems" width="60%">
+  <img src="assets/System_Architecture.png" alt="Systems" width="60%">
 </p>
 
 ---
