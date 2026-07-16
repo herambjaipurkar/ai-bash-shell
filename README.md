@@ -177,17 +177,10 @@ deactivate_lab
 
 ## 📂 Project Structure
 
-.lab_manager_v2/
-├── activate.sh            # Zsh hook multiplexer and virtual environment switchboard
-├── manager.py             # Core Python engine (JSON state router, regex parser, Ollama API bridge)
-├── .active_session        # Hidden dynamic state pointer tracking active workspace paths
-├── .gitignore             # Exclusion rules for local logs and dynamic pointers
-├── README.md              # Project documentation and architectural overview
-└── workspaces/            # Directory storing structured JSON experiment audit trails
-    ├── default_session.json
-    └── neural_net_tuning.json
 
-
+<p align="center">
+  <img src="assets/project_structure.png" alt="Structure" width="60%">
+</p>
 
 
 
