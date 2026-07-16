@@ -87,7 +87,8 @@ source ~/.lab_manager_v2/activate.sh
 ```
 
 
-📖 Interactive Usage Guide
+
+## 📖 Interactive Usage Guide
 Session Initialization
 Upon sourcing the activation script, the system prompts the interactive session manager:
 
@@ -130,7 +131,9 @@ python3 main.py --invalid-parameter-flag
 
 
 
-🔬 Advanced Feature Capabilities
+
+## 🔬 Advanced Feature Capabilities
+
 1. Autonomous Script Modification (--modify)
 Direct the LLM to read an existing code file, apply architectural or hyperparameter changes, and generate a clean, executable file automatically:
 ```bash
@@ -172,7 +175,7 @@ deactivate_lab
 
 
 
-📂 Project Structure
+## 📂 Project Structure
 
 .lab_manager_v2/
 ├── activate.sh            # Zsh hook multiplexer and virtual environment switchboard
@@ -188,7 +191,7 @@ deactivate_lab
 
 
 
-🏛️ License & Attribution
+## 🏛️ License & Attribution
 Copyright (c) 2026 Heramb Rajesh Jaipurkar. All Rights Reserved.
 
 This project was engineered as part of the Master of Science (MSc) in Advanced Computer Science dissertation at The University of Manchester, under the supervision of Prof. Georgios Detorakis.
